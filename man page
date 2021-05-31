@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: orange;
+  text-align: center;
+  color: blue;
+  font-family: snell roundhand;
+}
+</style>
+</head>
+<body>
+
+<h1>History of Taekwondo</h1>
+<p>Taekwondo is a Korean martial art that is one of the worlds oldest, reaching back over 2,000 years. It is called 'Taekwondo' because of it's apt description- tae (foot) kwon (hand) and do (art).</p>
+<p> When some masters travelled to the USA in the 1950's, the art was spread further. It appeared as a demonstration game in the 1988 Seoul Olympic Game, and became a fullfledged game in the 2000's games.</p>
+<img src="tkdsidekick.png" alt="Taekwondo side kick"style="width:250px">
+
+</body>
+</html>
